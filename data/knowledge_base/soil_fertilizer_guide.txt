@@ -1,0 +1,78 @@
+SOIL HEALTH AND FERTILIZER MANAGEMENT GUIDE
+
+UNDERSTANDING SOIL HEALTH
+Healthy soil is the foundation of productive farming. Key parameters:
+
+1. SOIL pH (Reaction)
+- pH 5.5–6.5: Slightly acidic — best for rice, potato, groundnut, banana
+- pH 6.0–7.0: Slightly acidic to neutral — best for maize, wheat, soybean, cotton
+- pH 6.5–7.5: Neutral — best for tomato, onion, garlic, most vegetables
+- pH 7.5–8.5: Slightly alkaline — barley, sugarcane, mustard can tolerate
+- Correction:
+  * Acidic soils: Apply agricultural lime (CaCO₃) @ 1–3 t/ha. Re-test after 2 seasons.
+  * Alkaline soils: Apply gypsum (CaSO₄) @ 2–4 t/ha. Leach with good quality water.
+
+2. ORGANIC CARBON (OC)
+- Low: < 0.5% — Needs immediate organic matter addition
+- Medium: 0.5–0.75% — Add compost and green manure
+- High: > 0.75% — Maintain with minimal disturbance
+- Improvement: Apply FYM 10–15 t/ha, vermicompost 2–3 t/ha, crop residue incorporation
+
+3. NITROGEN (N)
+- Available N: Low < 280 kg/ha; Medium 280–560 kg/ha; High > 560 kg/ha
+- Nitrogen sources: Urea (46% N), DAP (18% N), Ammonium Sulphate (21% N)
+- Always split N application (3 doses) to reduce losses from leaching and volatilisation
+
+4. PHOSPHORUS (P₂O₅)
+- Available P: Low < 11 kg/ha; Medium 11–22 kg/ha; High > 22 kg/ha
+- Sources: DAP (46% P₂O₅), SSP (16% P₂O₅), Rock Phosphate (18–20%)
+- Apply at sowing — phosphorus does not move in soil
+
+5. POTASSIUM (K₂O)
+- Available K: Low < 110 kg/ha; Medium 110–280 kg/ha; High > 280 kg/ha
+- Sources: MOP/Muriate of Potash (60% K₂O), SOP/Sulphate of Potash (50% K₂O)
+- Critical for drought resistance, fruit quality, and disease resistance
+
+6. MICRONUTRIENTS
+- Zinc (Zn): Most common deficiency in India (70% soils deficient).
+  Apply ZnSO₄ @ 25 kg/ha at sowing or foliar spray 0.5% ZnSO₄.
+- Boron (B): Essential for cotton, mustard, groundnut.
+  Apply Borax @ 10 kg/ha or foliar spray 0.2% Boric acid.
+- Iron (Fe): Common in alkaline soils — foliar spray FeSO₄ 1% + Citric acid 0.5%
+- Sulphur (S): Deficiency in mustard, onion, garlic. Apply Gypsum 100 kg/ha.
+
+FERTILIZER APPLICATION METHODS
+- Broadcasting: Simple, but 20–30% wastage. Use for P and K at land preparation.
+- Band placement: Place fertilizer 5 cm from seed. More efficient for P.
+- Fertigation: Apply through drip irrigation — increases efficiency by 30–40%.
+- Foliar spray: Quick correction of micronutrient deficiency. Maximum uptake at leaf.
+
+ORGANIC FARMING TECHNIQUES
+- Biofertilizers: Rhizobium (legumes), Azotobacter (non-legumes), PSB, Blue-Green Algae
+- Compost preparation: Layer green matter (N), dry matter (C), soil, in 6:3:1 ratio.
+  Water to maintain moisture 50–60%. Turn every 2 weeks. Ready in 3 months.
+- Vermicomposting: Eisenia fetida earthworms process organic waste.
+  Ratio: food waste : bedding = 1:3. Ready in 45–60 days.
+- Green Manuring: Dhaincha (Sesbania), Sunhemp, Cowpea — incorporate at flowering stage.
+  Adds 60–80 kg N/ha equivalent.
+
+SOIL CONSERVATION
+- Contour farming reduces erosion by 50–80% on slopes.
+- Cover crops (Cowpea, Clover) prevent erosion during fallow period.
+- Mulching with crop residue conserves moisture and reduces weed growth.
+- Minimum tillage preserves soil structure and beneficial microorganisms.
+
+SOIL TESTING — HOW TO COLLECT SAMPLES
+1. Divide your field into uniform blocks of 1–2 ha each.
+2. Take 10–15 sub-samples from 0–15 cm depth in a zigzag pattern.
+3. Mix sub-samples thoroughly; take 500 g composite sample.
+4. Fill in sample information card and submit to nearest Soil Testing Laboratory.
+5. Receive Soil Health Card within 30 days with specific fertilizer recommendations.
+
+WATER AND IRRIGATION MANAGEMENT
+- Flood irrigation efficiency: 35–45%
+- Sprinkler irrigation efficiency: 65–75%
+- Drip irrigation efficiency: 85–95%
+- Water requirement varies: Rice (1,200–2,500 mm), Wheat (350–600 mm), 
+  Cotton (700–1,200 mm), Vegetables (300–700 mm)
+- Schedule irrigation based on soil moisture (tensiometer readings) not calendar.

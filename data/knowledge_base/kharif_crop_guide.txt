@@ -1,0 +1,72 @@
+KHARIF CROP GUIDE — India Agricultural Advisory
+
+KHARIF SEASON OVERVIEW
+Kharif crops are sown during the onset of the monsoon (June-July) and harvested in September-October. 
+Major kharif crops include rice, maize, cotton, soybean, groundnut, and sugarcane.
+
+KEY KHARIF CROPS AND BEST PRACTICES
+
+1. RICE (Paddy)
+- Sowing time: June to July (transplanting 25-30 days after nursery sowing)
+- Soil: Clay loam, pH 5.5–7.0, well-waterlogged fields
+- Seed rate: 40–50 kg/ha (direct seeding); 25–30 kg/ha (transplanting)
+- Fertilizer: Apply 120:60:60 kg NPK/ha in split doses. Apply half nitrogen at transplanting, 
+  quarter at tillering stage, quarter at panicle initiation.
+- Water management: Maintain 2–5 cm standing water during vegetative stage.
+- Pest management: Monitor for Brown Plant Hopper (BPH). Use resistant varieties (IR-64, MTU-7029).
+  Spray Chlorpyriphos 20 EC @ 2.5 ml/L if BPH exceeds 5 per hill.
+- Disease: Blast disease — spray Tricyclazole 75 WP @ 0.6 g/L at boot leaf stage.
+- Harvest: When 80% of the grains turn golden yellow. Grain moisture 20–22%.
+
+2. MAIZE
+- Sowing time: June–July (after first monsoon rains)
+- Soil: Well-drained loamy soil, pH 5.8–7.0
+- Seed rate: 20–25 kg/ha, spacing 60x25 cm
+- Fertilizer: NPK 150:75:75 kg/ha. Apply phosphorus and potassium at sowing; 
+  split nitrogen in 3 doses.
+- Irrigation: Critical at knee-high, tasseling, and grain filling stages.
+- Fall Armyworm: India's major threat. Scout weekly. Apply Emamectin Benzoate 5 SG @ 0.4 g/L 
+  at whorl stage infestation.
+- Harvest: When husks turn brown and grain moisture drops to 25–30%.
+
+3. COTTON
+- Sowing time: May–June (rainfed); April–May (irrigated)
+- Soil: Black cotton soil (vertisol), well-drained, pH 6.0–8.0
+- Seed rate: 2.5 kg/ha (Bt cotton hybrid)
+- Fertilizer: NPK 100:50:50 kg/ha + Zn 25 kg/ha + B 1 kg/ha. 
+  Split nitrogen: 1/2 at sowing, 1/4 at squaring, 1/4 at boll development.
+- Bollworm management: Use pink bollworm pheromone traps (5/ha). 
+  Spray Indoxacarb 15.8 EC @ 1 ml/L at first boll infestation.
+- Sucking pests (Whitefly, Jassids, Thrips): Spray Imidacloprid 17.8 SL @ 0.5 ml/L.
+- Harvest: When 60–70% bolls open (3–4 pickings). Avoid picking during morning dew.
+
+SOIL PREPARATION FOR KHARIF
+- Deep plowing in April–May exposes soil to sun, kills pests, and improves structure.
+- Apply Farm Yard Manure (FYM) 10–15 tonnes/ha and incorporate before last plowing.
+- Soil test every 3 years; apply lime if pH < 5.5, gypsum if pH > 8.5.
+
+IRRIGATION SCHEDULING
+- Install tensiometer to monitor soil moisture (irrigate when tension > 40 cb for most crops).
+- Drip irrigation reduces water use by 30–50% compared to flood irrigation.
+- Avoid waterlogging — install field drains in heavy soils.
+
+INTEGRATED PEST MANAGEMENT (IPM) PRINCIPLES
+1. Use certified, disease-free seeds from government centers.
+2. Practice crop rotation to break pest and disease cycles.
+3. Plant border crops (sorghum, maize) to attract pest predators.
+4. Use light traps (1/ha) to monitor and trap adult insects.
+5. Introduce natural enemies — Trichogramma parasitoids for borers.
+6. Chemical sprays only when pest population exceeds Economic Threshold Level (ETL).
+7. Alternate pesticide groups to prevent resistance development.
+
+GOVERNMENT SUPPORT SCHEMES
+- PM-KISAN: Income support of ₹6,000/year in 3 equal instalments.
+- Pradhan Mantri Fasal Bima Yojana (PMFBY): Crop insurance at subsidised premium.
+- Soil Health Card Scheme: Free soil testing and fertilizer recommendation card.
+- eNAM: National Agriculture Market for online commodity trading.
+- Kisan Credit Card (KCC): Short-term credit at 7% interest (4% with prompt repayment).
+
+CONTACT FOR LOCAL ADVICE
+- Krishi Vigyan Kendra (KVK): 731 KVKs across India; call ICAR helpline 1800-180-1551
+- State Agricultural Department: Visit the nearest Agriculture Extension Officer
+- Kisan Call Centre: 1800-180-1551 (toll-free, 6 AM – 10 PM)

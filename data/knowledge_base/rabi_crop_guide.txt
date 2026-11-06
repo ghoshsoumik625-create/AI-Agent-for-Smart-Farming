@@ -1,0 +1,80 @@
+RABI CROP GUIDE — India Agricultural Advisory
+
+RABI SEASON OVERVIEW
+Rabi crops are sown in October–November after the kharif harvest and harvested in March–April. 
+Major rabi crops: wheat, mustard, potato, chickpea (gram), lentil, barley, and peas.
+Temperature during crop growth: 10–25°C. Requires mild winters and cool summers for proper grain filling.
+
+KEY RABI CROPS AND BEST PRACTICES
+
+1. WHEAT
+- Sowing time: October 25–November 25 (North India). Timely sown = higher yield.
+- Varieties: HD-3086, DBW-187 (rust resistant), PBW-550, GW-496 (Gujarat)
+- Soil: Loamy to clay loam, pH 6.0–7.5
+- Seed rate: 100–125 kg/ha. Seed treatment: Carboxin 75 WP @ 2.5 g/kg seed.
+- Fertilizer: NPK 120:60:40 kg/ha. Apply full P and K at sowing; split N in 2–3 doses.
+  First irrigation (Crown Root Initiation, 20–25 DAS) — apply 1/3 N.
+  Second irrigation (Tillering, 40–45 DAS) — apply 1/3 N.
+  Third irrigation (Jointing, 60–65 DAS) — apply remaining 1/3 N.
+- Irrigation: 5–6 irrigations required. Critical stages: CRI, Tillering, Jointing, Flowering, 
+  Milky grain, and Dough stage.
+- Weed control: Isoproturon 75 WP @ 1 kg a.i./ha at 30–35 DAS for narrow-leaf weeds.
+  Clodinafop-Propargyl 15 WP @ 60 g/ha for grassy weeds.
+- Disease: Yellow Rust — spray Propiconazole 25 EC @ 1 ml/L at first appearance.
+  Powdery Mildew — Hexaconazole 5 SC @ 2 ml/L.
+- Harvest: When grain moisture reaches 12–14%; moisture meter recommended.
+
+2. MUSTARD (Rapeseed-Mustard)
+- Sowing time: October 1–20 (optimal). Late sowing reduces yield significantly.
+- Varieties: RH-749, Varuna, Pusa Mustard 25, GSC-6 (Gujarat)
+- Soil: Sandy loam, pH 6.0–8.0, well-drained
+- Seed rate: 5–6 kg/ha, row spacing 30–45 cm
+- Fertilizer: NPK 80:40:40 kg/ha + Sulphur 30 kg/ha (critical for oil quality).
+  Apply full dose at sowing.
+- Irrigation: 2–3 irrigations: at branching (30 DAS), flowering (45 DAS), pod filling (60 DAS).
+- Aphid management: Spray Dimethoate 30 EC @ 1.5 ml/L when 25–26 aphids/plant.
+  Avoid spraying during flowering to protect pollinators.
+- White Rust: Spray Mancozeb 75 WP @ 2.5 g/L at first signs.
+- Harvest: When 75% pods turn yellow-brown. Thresh immediately to prevent shattering.
+
+3. POTATO
+- Sowing time: October (plains); August–September (hills)
+- Varieties: Kufri Sindhuri, Kufri Pukhraj, Kufri Badshah, Kufri Jyoti
+- Soil: Sandy loam, pH 5.5–6.5 (slight acidity preferred)
+- Seed rate: 2,000–2,500 kg/ha of certified mini-tubers or cut seed pieces.
+  Treat with Indofil M-45 @ 3 g/L for 30 minutes before planting.
+- Fertilizer: NPK 180:80:100 kg/ha + FYM 25 tonnes/ha.
+  Apply full P, K, and 1/3 N at planting; apply remaining N at earthing-up (30 DAS).
+- Irrigation: Maintain consistent soil moisture. Avoid drought stress at tuber initiation.
+- Late Blight: Major disease. Spray Cymoxanil + Mancozeb @ 2.5 g/L preventively every 7–10 days
+  during cool, humid weather.
+- Harvest: When foliage yellows and desiccates (90–110 DAS). 
+  Allow skin to set for 10–15 days before harvesting.
+
+4. CHICKPEA (GRAM / CHANA)
+- Sowing time: October 25–November 15 (North India)
+- Varieties: JG-11, Pusa-372, JAKI-9218
+- Soil: Medium black or red loam, pH 6.0–8.0. Avoid waterlogged soils.
+- Seed rate: 80–100 kg/ha. Inoculate with Rhizobium + PSB culture.
+- Fertilizer: NPK 20:60:20 kg/ha at sowing only. Rhizobium provides own nitrogen.
+- Irrigation: 1–2 irrigations only: pod filling stage if rainfall absent.
+- Wilt management: Use tolerant varieties. Drench with Carbendazim 1 g/L at first sign.
+- Pod Borer: Spray Indoxacarb 15.8 EC @ 1 ml/L when 2–5% damage observed.
+
+SOIL HEALTH MANAGEMENT (RABI)
+- Test soil pH before sowing. Apply agricultural lime (calcitic) @ 2 t/ha for acidic soils.
+- Green manuring with Dhaincha (Sesbania) before rabi season improves nitrogen by 60–80 kg/ha.
+- Vermicompost @ 2–3 t/ha reduces chemical fertilizer requirement by 25–30%.
+- Use Soil Health Card recommendations for fertilizer application.
+
+POST-HARVEST MANAGEMENT
+- Clean threshing floor to prevent contamination.
+- Dry grain to safe moisture (12–14%) before storage.
+- Store in metal bins with Aluminium Phosphide tablets (3 tablets per tonne) for pest control.
+- Never store new grain on top of old grain.
+
+MARKET LINKAGE
+- Minimum Support Price (MSP): Set by CACP. Wheat MSP ₹2,275/qtl (2024-25).
+  Mustard MSP ₹5,650/qtl; Potato not under MSP (market-determined).
+- APMC mandis: Sell through regulated markets for fair price discovery.
+- Farmer Producer Organizations (FPOs): Join for collective bargaining and higher prices.

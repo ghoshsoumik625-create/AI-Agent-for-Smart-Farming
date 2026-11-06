@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>KisanMitra — AI Smart Farming Advisor</title>
+  <link rel="stylesheet" href="/static/css/style.css" />
+</head>
+<body>
+  <!-- ================================================================
+       Header
+  ================================================================= -->
+  <header class="app-header">
+    <div class="header-inner">
+      <div class="brand">
+        <span class="brand-icon">🌾</span>
+        <div>
+          <h1 class="brand-name">KisanMitra</h1>
+          <p class="brand-tagline">AI Smart Farming Advisor · Powered by IBM Granite</p>
+        </div>
+      </div>
+      <div class="header-badges">
+        <span class="badge badge-ibm">IBM watsonx.ai</span>
+        <span class="badge badge-rag">RAG Enabled</span>
+        <span id="status-badge" class="badge badge-status">Connecting…</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- ================================================================
+       Main layout
+  ================================================================= -->
+  <main class="app-main">
+
+    <!-- ---- Sidebar ---- -->
+    <aside class="sidebar">
+      <section class="sidebar-section">
+        <h2 class="sidebar-heading">📍 Your Context</h2>
+        <div class="form-group">
+          <label for="location">Location / City</label>
+          <input id="location" type="text" placeholder="e.g. Pune, Maharashtra" />
+        </div>
+        <div class="form-row">
+          <div class="form-group half">
+            <label for="lat">Latitude</label>
+            <input id="lat" type="number" step="0.0001" placeholder="18.52" />
+          </div>
+          <div class="form-group half">
+            <label for="lon">Longitude</label>
+            <input id="lon" type="number" step="0.0001" placeholder="73.86" />
+          </div>
+        </div>
+        <button class="btn-secondary" id="btn-locate">📡 Use My Location</button>
+      </section>
+
+      <section class="sidebar-section">
+        <h2 class="sidebar-heading">🌐 Language</h2>
+        <select id="language" class="select-input">
+          <option value="">Auto-detect</option>
+          <option value="en">English</option>
+          <option value="hi">हिन्दी (Hindi)</option>
+          <option value="te">తెలుగు (Telugu)</option>
+          <option value="ta">தமிழ் (Tamil)</option>
+          <option value="kn">ಕನ್ನಡ (Kannada)</option>
+          <option value="mr">मराठी (Marathi)</option>
+          <option value="bn">বাংলা (Bengali)</option>
+          <option value="pa">ਪੰਜਾਬੀ (Punjabi)</option>
+          <option value="gu">ગુજરાતી (Gujarati)</option>
+          <option value="ml">മലയാളം (Malayalam)</option>
+        </select>
+      </section>
+
+      <section class="sidebar-section">
+        <h2 class="sidebar-heading">⚡ Quick Actions</h2>
+        <div class="quick-actions">
+          <button class="quick-btn" data-query="What is the weather today?">🌤 Weather</button>
+          <button class="quick-btn" data-query="What crop should I grow this season?">🌱 Best Crop</button>
+          <button class="quick-btn" data-query="What is today's mandi rate for tomatoes?">💰 Mandi Rate</button>
+          <button class="quick-btn" data-query="How do I treat pest infestation on cotton?">🐛 Pest Control</button>
+          <button class="quick-btn" data-query="What fertilizer should I use for wheat?">🧪 Fertilizer</button>
+          <button class="quick-btn" data-query="What is the soil condition for farming?">🌍 Soil Check</button>
+        </div>
+      </section>
+
+      <section class="sidebar-section">
+        <h2 class="sidebar-heading">📊 Live Data</h2>
+        <div id="weather-card" class="data-card hidden">
+          <p class="data-card-title">🌤 Current Weather</p>
+          <div id="weather-content"></div>
+        </div>
+        <div id="price-card" class="data-card hidden">
+          <p class="data-card-title">💰 Mandi Price</p>
+          <div id="price-content"></div>
+        </div>
+      </section>
+    </aside>
+
+    <!-- ---- Chat panel ---- -->
+    <section class="chat-panel">
+      <div class="chat-messages" id="chat-messages">
+        <!-- Welcome message -->
+        <div class="message message-bot">
+          <div class="message-avatar">🌾</div>
+          <div class="message-bubble">
+            <p>
+              <strong>Namaste! 🙏</strong> Welcome to <strong>KisanMitra</strong> — your AI farming advisor.<br /><br />
+              I can help you with:
+            </p>
+            <ul>
+              <li>🌤 <strong>Weather forecasts</strong> for your region</li>
+              <li>🌱 <strong>Crop recommendations</strong> based on soil &amp; season</li>
+              <li>💰 <strong>Mandi (market) prices</strong> for commodities</li>
+              <li>🐛 <strong>Pest &amp; disease control</strong> guidance</li>
+              <li>🧪 <strong>Fertilizer &amp; irrigation</strong> advice</li>
+              <li>🌍 <strong>Soil health</strong> analysis</li>
+            </ul>
+            <p>Ask me anything — in your local language! <em>अपनी भाषा में पूछें।</em></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Input bar -->
+      <div class="chat-input-bar">
+        <div class="input-wrapper">
+          <textarea
+            id="user-input"
+            placeholder="Type your farming question here… e.g. 'टमाटर का आज का मंडी भाव क्या है?'"
+            rows="2"
+          ></textarea>
+          <button class="btn-send" id="btn-send" title="Send">
+            <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20">
+              <path d="M2 21l21-9L2 3v7l15 2-15 2v7z"/>
+            </svg>
+          </button>
+        </div>
+        <div class="input-hint">
+          Press <kbd>Enter</kbd> to send · <kbd>Shift+Enter</kbd> for new line
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ================================================================
+       Loading overlay
+  ================================================================= -->
+  <div id="loading-overlay" class="loading-overlay hidden">
+    <div class="loading-spinner"></div>
+    <p>Consulting IBM Granite AI…</p>
+  </div>
+
+  <script src="/static/js/app.js"></script>
+</body>
+</html>
